@@ -37,6 +37,20 @@ The dataset split was performed by subject to avoid data leakage:
 
 The complete evaluation output is available in [test_report.txt](artifacts/test_report.txt).
 
+## Sample Application Outputs
+
+### Application Screenshot 1
+
+![Hand Gesture Recognition Output 1](sample_image/Screenshot%20%28153%29.png)
+
+### Application Screenshot 2
+
+![Hand Gesture Recognition Output 2](sample_image/Screenshot%202026-07-18%20002455.png)
+
+### Application Screenshot 3
+
+![Hand Gesture Recognition Output 3](sample_image/Screenshot%202026-07-18%20002654.png)
+
 ### Sample Classification Performance
 
 | Gesture | Precision | Recall | F1-score |
