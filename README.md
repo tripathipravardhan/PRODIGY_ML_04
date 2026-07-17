@@ -172,12 +172,13 @@ The training script automatically creates:
 - Deploy the Streamlit application online.
 - Add gesture-controlled computer actions.
 
-## Author
+## 👨‍💻 Author
 
 **Pravardhan Tripathi**
 
-GitHub: [tripathipravardhan](https://github.com/tripathipravardhan)
+- GitHub: https://github.com/tripathipravardhan
+- LinkedIn: https://www.linkedin.com/in/pravardhan-tripathi-a8a5ab37a
 
-## License
+## 📄 License
 
-This project is created for educational and internship-task purposes.
+This project is licensed under the MIT License.
